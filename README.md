@@ -4,3 +4,9 @@
 Завдання: Розробити серверну частину Web-додатку та протестувати її функціональність.
 
 Посилання на звіт: https://docs.google.com/document/d/1bXAL9bDQgefII8kj_WUlRFCy6oNyZseXjLSl47jARWY/edit?usp=sharing
+
+Лабораторна робота №2 з дисципліни «Технологія розробки Web-додатків»
+Тема: «Тестування клієнтської частини Web-додатка»
+Завдання: розробити засоби сценарії (код) для тестування клієнтської частини (інтерфейсу користувача) Web-додатку.
+
+Посилання на звіт: https://docs.google.com/document/d/1SMhh-VEq6WBSu-jwOY-gZWRfzSqCLl7D_m8JsD3xnmE/edit?usp=sharing
